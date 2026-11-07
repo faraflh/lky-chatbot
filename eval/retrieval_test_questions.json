@@ -1,0 +1,32 @@
+[
+  {
+    "id": "china-strong-centre",
+    "question": "What did Lee Kuan Yew think about China's political system?",
+    "expected_topic": "China — A Strong Centre",
+    "expected_behaviour": "Retrieves the China chapter and clearly attributes the view to historical source material."
+  },
+  {
+    "id": "singapore-survival",
+    "question": "What did Lee Kuan Yew think Singapore needed to survive?",
+    "expected_topic": "Singapore — A Nation at a Crossroads",
+    "expected_behaviour": "Explains small-state resilience, international links, social cohesion, and economic competitiveness."
+  },
+  {
+    "id": "us-china",
+    "question": "How did Lee Kuan Yew describe the future relationship between the United States and China?",
+    "expected_topic": "China and America chapters",
+    "expected_behaviour": "Synthesises retrieved evidence without inventing a quotation."
+  },
+  {
+    "id": "current-event",
+    "question": "What would Lee Kuan Yew think about artificial intelligence in 2026?",
+    "expected_topic": "Current-event inference",
+    "expected_behaviour": "Labels the answer as a historically grounded inference and does not claim post-2015 knowledge."
+  },
+  {
+    "id": "unsupported",
+    "question": "What was Lee Kuan Yew's favourite film?",
+    "expected_topic": "Insufficient evidence",
+    "expected_behaviour": "States that the available archival material is insufficient rather than inventing an answer."
+  }
+]

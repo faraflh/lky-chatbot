@@ -1,0 +1,2 @@
+# Required only for local/Colab source-preparation scripts.
+pymupdf>=1.24.0

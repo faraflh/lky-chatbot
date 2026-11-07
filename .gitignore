@@ -1,0 +1,21 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw/derived source materials are intentionally not public.
+data/raw/
+data/processed/
+data/examples/
+*.pdf
+
+# Operating-system files
+.DS_Store
+Thumbs.db
